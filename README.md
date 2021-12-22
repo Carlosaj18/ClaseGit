@@ -1,1 +1,3 @@
-ClaseGit
+ClaseGit 
+
+El repositorio es publico
